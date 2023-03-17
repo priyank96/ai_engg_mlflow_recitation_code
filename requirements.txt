@@ -1,5 +1,5 @@
-tensorflow==1.15.2
-keras==2.2.4
+tensorflow
+keras
 mlflow>=1.0
 pyspark
 requests
